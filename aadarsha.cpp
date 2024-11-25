@@ -2,5 +2,8 @@
 using namespace std;
 
 int main () {
-        cout << "Aadrsha" << endl;
+        cout << "Aadarsha" << endl;
+        cin>>a;
+        cout<<"BUjheu haina Krishna"<<endl;
+        
 }
